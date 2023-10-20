@@ -1,0 +1,8 @@
+# IDEs
+.idea
+.vscode
+
+# project
+target
+allure-report
+allure-results
